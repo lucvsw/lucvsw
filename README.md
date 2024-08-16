@@ -1,7 +1,9 @@
 ## Hey! My name is Lucas Dutra
 
 🎓 Economics BsC from Universidade Católica de Brasília (2016 - 2020)
+
 🎓 Master's in Economics from Universidade Católica de Brasília (2022 - 2024)
+
 🎓 PhD Student in Economics at Universidade Católica de Brasília (2024 - present)
 
 <!--
