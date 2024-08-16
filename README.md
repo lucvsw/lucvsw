@@ -5,7 +5,9 @@
 🎓 PhD Student in Economics at Universidade Católica de Brasília (2024 - present)
 
 **Tech Stack**: <br />
-📜 LaTeX: text and mathematical typesetting, Beamer, BibTeX, TikZ, scientific production, layout customization.
+📊 R: Data manipulation and treatment, Geoprocessing, Statistical analysis and Modeling, Visualization. <br />
+📜 LaTeX: Text and mathematical typesetting, Beamer, BibTeX, TikZ, scientific production, layout customization. 
+
 
 <!--
 **lucvsw/lucvsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
