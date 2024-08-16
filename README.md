@@ -1,8 +1,11 @@
 ## Hey! My name is Lucas Dutra
 
 🎓 Economics BsC from Universidade Católica de Brasília (2016 - 2020) <br />
-🎓 Master's in Economics from Universidade Católica de Brasília (2022 - 2024)
+🎓 Master's in Economics from Universidade Católica de Brasília (2022 - 2024) <br />
 🎓 PhD Student in Economics at Universidade Católica de Brasília (2024 - present)
+
+**Tech Stack**: <br />
+📜 LaTeX: text and mathematical typesetting, Beamer, BibTeX, TikZ, scientific production, layout customization.
 
 <!--
 **lucvsw/lucvsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
