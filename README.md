@@ -5,7 +5,7 @@
 🎓 PhD Student in Economics at Universidade Católica de Brasília (2024 - present)
 
 **Tech Stack**: <br />
-📊 R: Data manipulation and treatment, Geoprocessing, Statistical analysis and Modeling, Visualization. <br />
+📊 R: Data wrangling and manipulation (tidyr, dplyr), data visualization (ggplot2), pipelines (targets), mapping for urban and regional analysis, spatial data analysis and geoprocessing (sf, raster), spatial datasets construction, custom function development, econometric modeling. <br />
 📜 LaTeX: Text and mathematical typesetting, Beamer, BibTeX, TikZ, scientific production, layout customization. 
 
 
